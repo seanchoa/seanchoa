@@ -1,14 +1,14 @@
 - title: "Home"
-  url: "/"
+    url: "/"
 
 - title: "Research"
-  url: "/research/"
+    url: "/research/"
 
 - title: "Publications"
-  url: "/publications/"
+    url: "/publications/"
 
 - title: "Teaching"
-  url: "/teaching/"
+    url: "/teaching/"
 
 - title: "Awards"
-  url: "/awards/"
+    url: "/awards/"
