@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Basic Site Settings
-title: "Your Name / Site Title"
+title: "Sean Cho Ayres"
 title_separator: "-"
 locale: "en-US"
 theme: jekyll-theme-minimal  # <-- This line activates a real theme
@@ -16,11 +16,6 @@ author:
   location: "Earth"
   employer: "Kennesaw State University"
   email: "sayres4@kennesaw.edu"
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid: "http://orcid.org/yourorcidurl"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  github: "academicpages"
-  bluesky: "bsky.app"
 
 # Publication Category Headings
 publication_category:
