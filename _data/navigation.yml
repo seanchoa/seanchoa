@@ -1,14 +1,16 @@
-- title: "Home"
-    url: "/"
+# main links
+main:
+  - title: "Home"
+    url: /
 
-- title: "Research"
-    url: "/research/"
+  - title: "Research"
+    url: /research/
 
-- title: "Publications"
-    url: "/publications/"
+  - title: "Publications"
+    url: /publications/
 
-- title: "Teaching"
-    url: "/teaching/"
-
-- title: "Awards"
-    url: "/awards/"
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Awards"
+    url: /awards/
