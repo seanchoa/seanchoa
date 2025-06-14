@@ -4,15 +4,15 @@
 title: "Sean Cho Ayres"
 title_separator: "-"
 locale: "en-US"
-theme: jekyll-theme-minimal  # <-- This line activates a real theme
-name: "Dr. Sean Cho A."
+remote_theme: academicpages/academicpages.github.io
+name: "Dr. Sean Cho Ayres"
 description: "Poet, Ethical AI Researcher, Professor"
 
 # Site Author
 author:
   avatar: "seanprofile.png"
   name: "Sean Cho Ayres"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Poet,AI Ethics Researcher, Professor"
   location: "Earth"
   employer: "Kennesaw State University"
   email: "sayres4@kennesaw.edu"
