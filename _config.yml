@@ -2,7 +2,7 @@
 title: "Sean Cho Ayres"
 name: "Dr. Sean Cho A."
 description: "Poet | AI Ethicist | Professor | Editor"
-url: "https://seanchoa.com"  # Your custom domain
+url: "https://seanchoa.com"
 baseurl: ""  # Leave blank for root-level hosting
 
 # Theme and plugins
@@ -16,7 +16,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
 
-# Author info (sidebar content)
+# Author sidebar info
 author:
   name: "Sean Cho Ayres"
   avatar: "seanprofile.png"  # Must be placed in /images/
@@ -25,22 +25,7 @@ author:
   location: "Earth"
   employer: "Kennesaw State University"
 
-# Collections (optional for teaching, talks, etc.)
-collections:
-  teaching:
-    output: true
-    permalink: /teaching/:path/
-  publications:
-    output: true
-    permalink: /publications/:path/
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  talks:
-    output: true
-    permalink: /talks/:path/
-
-# Output and defaults
+# Output and page inclusion
 include:
   - _pages
 
@@ -49,16 +34,11 @@ markdown: kramdown
 highlighter: rouge
 excerpt_separator: "\n\n"
 
+# Defaults for page layout and sidebar
 defaults:
   - scope:
       path: ""
       type: pages
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: teaching
     values:
       layout: single
       author_profile: true
@@ -80,3 +60,4 @@ defaults:
     values:
       layout: talk
       author_profile: true
+
