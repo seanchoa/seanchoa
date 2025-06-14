@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: archive
 title: "Research"
 permalink: /research/
+author_profile: true
 ---
 
 My research sits at the intersection of creative writing, artificial intelligence, and digital humanities, exploring how computational creativity can emerge from deeply human foundations while maintaining transparency and ethical integrity. I investigate how AI systems, far from being purely computational, are fundamentally shaped by human creativity, curation, and collaboration at every stage of development.
