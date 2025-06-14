@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a poet, AI ethics researcher, and educator currently serving as an Assistant Professor in the English Department – AI Writing at Kennesaw State University (Fall 2025).
 
 I completed my PhD in Creative Writing and Literature at the University of Cincinnati (2025), where I worked at [The Digital Scholarship Center](https://libraries.uc.edu/digital-scholarship.html), [*The Cincinnati Review*](https://www.cincinnatireview.com/), and [Acre Books](https://acre-books.com/), and studied ethical AI through digital humanities. I am also a graduate of the MFA program in Creative Writing at the University of California, Irvine (2021).
