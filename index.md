@@ -22,6 +22,4 @@ I currently serve as Editor in Chief of [*The Account: A Journal of Poetry, Pros
 
 Through both my creative and scholarly work, I aim to develop approaches that allow human and artificial intelligence to collaborate meaningfully while maintaining the human elements that make creative expression valuable.
 
-## Contact
 
-**Email**: [sayres4@kennesaw.edu](mailto:sayres4@kennesaw.edu)
