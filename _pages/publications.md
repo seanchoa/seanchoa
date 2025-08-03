@@ -13,6 +13,25 @@ Featured on "The Slowdown" hosted by Ada Limón and "The Chapbook" podcast by Bu
 
 ## Journal Publications
 
+CRITICAL WORK 
+
+**The Rumpus — "Human Error is the Point: On AI in the Classroom" (Forthcoming)**  
+*The Rumpus*
+
+**re mediate — "The Original Is Dead; Long Live the Original" (Forthcoming)**  
+*re mediate*
+
+
+
+FICTION 
+
+**[Wildness — "The Folder of Ever-Selfs"](https://readwildness.com/38/a-folder)**  
+*Wildness*
+
+
+
+POETRY 
+
 **[Poetry – "& Then #4"](https://www.poetryfoundation.org/poetrymagazine/poems/162747/-then-4)**  
 *Poetry Magazine*
 
@@ -39,6 +58,8 @@ Featured on "The Slowdown" hosted by Ada Limón and "The Chapbook" podcast by Bu
 
 **[Michigan Quarterly Review – 2 Poems](https://sites.lsa.umich.edu/mixtape/2021/05/31/act-3-sonnet-39-and-act-3-sonnet-47-by-sean-cho-a/)**  
 *Michigan Quarterly Review*
+
+
 
 ## Additional Publications
 Works have also appeared in over 100 journals including 30 North Literary Review • 45th Parallel • Across the Margins • After Happy Hour Review • The Alaska Quarterly • American Literary Review • Anti-Hero Chic • Barren Magazine • Bat City Review • Bicycle Comics Anthology • Black Warrior Review • Cabinet of Heed • Cardinal Sins • Carte Blanche • Carve • Cherry Tree • The Cincinnati Review • The Coachella Review • The Common • Contrary • Copper Nickel • The Cortland Review • Court Green • Crazy Horse • Cream City Review • Cut Leaf • The Dallas Review • December • Denver Quarterly • Dream Pop • Ecotone • Emerge Literary Journal • Existere • Feral • Foothill • Frontier • Glass Mountain • The Gordon Square Review • HAD • Hampden-Sydney Poetry Review • The Hopkins Review • Hobart • Image • Invisible City • Iron Horse • The Journal • Journal of the Compressed Arts • Juke Joint • Lumiere • Lychee Rind • The Madison Review • The Maine Review • Mangrove • The Margins • The Massachusetts Review • Memorious • Meridian • Michigan Quarterly • The Minnesota Review • The Muse • The Nashville Review • The New English Review • New South • Ninth Letter • The North American Review • The North Dakota Quarterly • OverheardLit • Oxford Poetry • Palvar • Paper Dragon • Parenthesis • Passages North • The Penn Review • Peripheries Journal • Pilgrimage Press • Pinch • Pink Swamp • Pleiades • Poetry • Poetry Northwest • Poetry.onl • Poet Lore • Ponder Savant • The Portland Review • Porter House Review • Prairie Schooner • Rattle • The Rectangle • Relocations • RHINO • The Rumpus • Salamander • Salt Hill • Snap Dragon • South Dakota Review • South Florida Poetry Review • The Southeast Review • Smartish Pace • Spectra Poetry • Spillway • Sporklet • Sugar House Review • Tar River • Thin Air Magazine • Tiny Spoon • Touch Stone • Tupelo Quarterly • UpNorth Lit • Versifications • Washington Square • Wax Nine • Wilderness • Willow Herb Review • Willow Springs • Witness • The Worcester Review • Zócalo Public Square
