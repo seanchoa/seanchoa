@@ -23,7 +23,8 @@ author_profile: true
 ## Poem Awards
 
 * **Best New Poets** - Nominee (Image, "Abandoned Love Sonnet #8"), Spring 2025
-* **Oxford Poetry Prize** - Finalist - Longlist, Spring 2025
+* **Diann Blakely National Poetry Competition (UGA)**, Shortlist, Spring 2025
+* **Oxford Poetry Prize*** - Finalist - Longlist, Spring 2025
 * **Lucky Jefferson Poetry Prize** - Finalist
 * **Best New Poets** - Nominee (The New England Review, "Cutleaf")
 * **Iron Horse, Poetry Contest** - Runner up, Spring 2023
