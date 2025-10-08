@@ -40,6 +40,7 @@ author_profile: true
 
 ## Grants & Scholarships
 
+* **NDIVIA Academic Grant (approx. $25,000 of cloud compute)** - Fall 2025
 * **Tupelo Press Manuscript Conference Grant** - Summer 2022
 * **University of California Irvine Center for Asian Studies Grant** - Summer 2021
 * **Sevilla Writers House Conference Grant** - Summer 2020
