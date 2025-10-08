@@ -15,8 +15,9 @@ Featured on "The Slowdown" hosted by Ada Limón and "The Chapbook" podcast by Bu
 
 CRITICAL WORK 
 
-**The Rumpus — "Human Error is the Point: On AI in the Classroom" (Forthcoming)**  
-*The Rumpus*
+**[The Rumpus — "Human Error is the Point: On AI in the Classroom"](https://therumpus.net/2025/10/02/human-error-is-the-point-on-teaching-college-during-the-rise-of-ai/)**  
+*The Rumpus (Forthcoming)*
+
 
 **re mediate — "The Original Is Dead; Long Live the Original" (Forthcoming)**  
 *re mediate*
