@@ -5,25 +5,45 @@ permalink: /research/
 author_profile: true
 ---
 
-My research sits at the intersection of creative writing, artificial intelligence, and digital humanities, exploring how computational creativity can emerge from deeply human foundations while maintaining transparency and ethical integrity. I investigate how AI systems, far from being purely computational, are fundamentally shaped by human creativity, curation, and collaboration at every stage of development.
+My research sits at the intersection of creative writing, critical AI studies, and digital humanities. I am less interested in artificial intelligence as a set of tools or models than as a cultural, economic, and aesthetic force that is reshaping what we mean by creativity, labor, and the purpose of creative writing itself. Large language models do not simply “assist” writers; they reorganize how we imagine authorship, attention, and value—and my work asks what it means to write, teach, and live as these systems become ordinary.
 
-My work has been supported by NDIVIA, The University of California Irvine Center for Asian Studies, among others.
+Supported by institutions including NVIDIA and the University of California, Irvine Center for Asian Studies, I approach AI not as a neutral technology but as an infrastructure built on human effort: annotation labor, data collection, editorial judgment, and the histories of language that models repackage as “new.” My research traces how these hidden forms of work shape what AI can say and who gets to speak through it.
 
-Through both critical analysis and creative practice, I develop innovative methodologies that address the growing need for transparency in AI-assisted creative work. My approach centers on training custom AI models exclusively on original human-authored datasets, thereby avoiding the ethical complications of using others' copyrighted work while creating clear provenance for resulting creative outputs. This methodology allows me to document the entire creative process—from initial human authorship through AI training to collaborative curation—making visible the human elements that shape computational creativity.
+Through both critical analysis and creative practice, I examine how LLMs pressure long-standing assumptions in creative writing:  
+- What counts as “original” when models remix vast archives of text?  
+- How do we understand voice when it can be simulated, shared, or scaled?  
+- What does it mean to be a writer when composing, editing, prompting, and curating all become forms of authorship?
 
-This work directly engages with urgent questions about authorship, intellectual property, and creative agency in the age of AI. I am particularly focused on developing practical solutions that enable creators to maintain copyright protection while benefiting from AI collaboration, and ensuring that these technologies serve to democratize rather than concentrate creative power. By combining rigorous documentation methodologies with experimental creative practice, my research provides concrete frameworks for courts, creators, and policymakers navigating the complex landscape of AI-assisted creativity.
+Rather than centering the models themselves, my methodology foregrounds human authorship, documentation, and responsibility. I often work with custom models trained on my own poetry and prose—not as products to be optimized, but as experimental sites where questions of consent, provenance, copyright, and creative agency can be made visible. These experiments allow me to follow the full arc of a piece of writing: from first draft, to training data, to model behavior, to final work, and to the legal and ethical frameworks that surround it.
 
-In addition to my academic research, I am developing a series of public humanities essays that examine AI ethics from both theoretical and practical perspectives, making complex technological and legal questions accessible to broader audiences and contributing to public discourse about the role of artificial intelligence in creative expression.
+This work directly engages with urgent debates around intellectual property, creative labor, and cultural power in the age of AI. I am especially concerned with how AI systems can either concentrate influence in the hands of a few platforms or, alternatively, be used to build more equitable, transparent, and community-centered creative practices. By combining rigorous critical frameworks with experimental writing, my research offers concrete ways for writers, educators, and policymakers to think about AI beyond hype—attending to the histories, workers, and institutions that make these systems possible.
 
-Through projects completed at The Digital Scholarship Center at The University of Cincinnati and Yale University Press, I continue to bridge the gap between technological innovation and humanistic inquiry, demonstrating that thoughtful AI collaboration can enhance rather than replace human creativity.
+Alongside scholarly publications, I am developing public-facing essays that translate complex questions about AI ethics, copyright, and creative labor into accessible, narrative-driven writing. These pieces treat AI as a lived condition rather than a distant technology, situating it in classrooms, dorm rooms, literary spaces, and everyday platforms where people already encounter machine-generated language.
 
-## Current Research Projects
+Through projects completed with The Digital Scholarship Center at the University of Cincinnati and Yale University Press, I continue to bridge technological innovation with humanistic inquiry. Across these collaborations, I insist that AI should be something we learn to read critically and write with thoughtfully, not something that replaces or diminishes human creativity.
 
-My current research encompasses two interconnected projects that demonstrate this approach in practice. Through "Our Sun Bear Paws," I explore AI-human poetic dialogue by creating a custom model trained on 500 of my own original poems, resulting in a manuscript that makes transparent the collaborative relationship between human and artificial intelligence. Simultaneously, my "Your Own Voice, For Everyone" research develops systematic frameworks for transparent AI collaboration, addressing critical questions about documentation practices, copyright law, and equitable access to AI tools in creative contexts.
+---
 
-### "Our Sun Bear Paws"
+### Current Research Projects
 
-This creative dissertation demonstrates AI-human collaborative poetry through a custom model trained exclusively on my original work, creating transparent documentation of the entire creative process while exploring questions of authorship.
+My current research centers on three interconnected projects that use creative practice as a form of critical AI study.
 
-### "Your Own Voice, For Everyone"
-A research framework addressing systematic approaches to transparent AI collaboration, copyright protection, and equitable access to AI tools in creative contexts, providing practical guidelines for creators, policymakers, and legal professionals.
+**Our Sun Bear Paws**  
+*AI, poetry, and the purpose of writing*
+
+This creative dissertation stages an extended dialogue between human and machine by training a custom model on a large corpus of my own poems. The project is less about generating “convincing” AI poetry and more about asking: What happens to intimacy, memory, and care when one’s own voice is returned as synthetic text? How does collaborative drafting with an LLM change the goals of a poem—from product to process, from originality to relation? Through extensive documentation of prompts, outputs, revisions, and refusals, *Our Sun Bear Paws* makes the usually invisible labor of AI-assisted writing both legible and critique-able.
+
+**Your Own Voice, For Everyone**  
+*Frameworks for transparent and equitable AI collaboration*
+
+This research framework develops practical tools for writers, educators, and institutions who want to engage AI without surrendering their values or their rights. The project focuses on:
+
+- Documentation practices that make visible how AI is used in creative work  
+- Approaches to copyright and consent that respect human contributors  
+- Pedagogical models that treat AI as an opportunity to rethink why we write, not just how  
+- Strategies for widening access to AI literacy so that its benefits are not limited to those with the most resources
+
+**Human Error Is the Point**  
+*An essay collection on critical AI, labor, and the work of writing*
+
+This essay collection gathers creative nonfiction and public-facing criticism that examines AI from the vantage point of lived experience: the classroom, the dorm room labeling data at 2 a.m., the workshop where students draft with chatbots, the office where everyday writing is quietly automated. Moving between memoir, reportage, and close reading, these essays ask how AI is reshaping our sense of boredom, effort, authorship, and care. Rather than treating “AI in writing” as a novelty problem, the collection argues that machine-generated text exposes what creative writing has always been for: making meaning together under unequal conditions of time, money, and attention.
