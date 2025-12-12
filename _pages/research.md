@@ -25,25 +25,15 @@ Through projects completed with The Digital Scholarship Center at the University
 ---
 
 ### Current Research Projects
+Research Projects
+My current research centers on two interconnected projects that approach AI and generative text through creative practice, critical writing, and questions of authorship, labor, and care.
 
-My current research centers on three interconnected projects that use creative practice as a form of critical AI study.
+Human Error Is the Point
+An essay collection on AI, generative systems, and the work of writing
+This essay collection brings together creative nonfiction and public-facing criticism that examines AI and generative language models from the ground up—from classrooms and writing workshops to dorm rooms where data is labeled late at night, to offices where everyday writing is quietly automated. Moving between memoir, reportage, and close reading, the essays ask how AI reshapes our understanding of effort, boredom, authorship, and collaboration.
+Rather than treating “AI in writing” as a novelty or purely technical problem, the collection argues that machine-generated text reveals what writing has always been: a social practice shaped by unequal access to time, money, and attention. Across these essays, error is not a failure to be corrected, but a critical site where ethics, creativity, and human judgment remain visible.
 
-**Our Sun Bear Paws**  
-*AI, poetry, and the purpose of writing*
-
-This creative dissertation stages an extended dialogue between human and machine by training a custom model on a large corpus of my own poems. The project is less about generating “convincing” AI poetry and more about asking: What happens to intimacy, memory, and care when one’s own voice is returned as synthetic text? How does collaborative drafting with an LLM change the goals of a poem—from product to process, from originality to relation? Through extensive documentation of prompts, outputs, revisions, and refusals, *Our Sun Bear Paws* makes the usually invisible labor of AI-assisted writing both legible and critique-able.
-
-**Your Own Voice, For Everyone**  
-*Frameworks for transparent and equitable AI collaboration*
-
-This research framework develops practical tools for writers, educators, and institutions who want to engage AI without surrendering their values or their rights. The project focuses on:
-
-- Documentation practices that make visible how AI is used in creative work  
-- Approaches to copyright and consent that respect human contributors  
-- Pedagogical models that treat AI as an opportunity to rethink why we write, not just how  
-- Strategies for widening access to AI literacy so that its benefits are not limited to those with the most resources
-
-**Human Error Is the Point**  
-*An essay collection on critical AI, labor, and the work of writing*
-
-This essay collection gathers creative nonfiction and public-facing criticism that examines AI from the vantage point of lived experience: the classroom, the dorm room labeling data at 2 a.m., the workshop where students draft with chatbots, the office where everyday writing is quietly automated. Moving between memoir, reportage, and close reading, these essays ask how AI is reshaping our sense of boredom, effort, authorship, and care. Rather than treating “AI in writing” as a novelty problem, the collection argues that machine-generated text exposes what creative writing has always been for: making meaning together under unequal conditions of time, money, and attention.
+Our Sun Bear Paws
+A from-scratch manuscript trained only on my poetry dataset
+This creative manuscript explores what it means to write with a machine when the machine is trained exclusively on one writer’s work—and nothing else. Built from scratch using only my own poetry dataset, the project stages an evolving dialogue between human and model across multiple generations of training, drafting, and revision.
+Rather than aiming for seamless or “convincing” AI poetry, the manuscript traces the shifts that occur as a poetic voice is returned, distorted, echoed, and misremembered by a system designed to learn from it. Poems are arranged to reflect model evolution over time, foregrounding drift, limitation, repetition, and surprise as aesthetic and ethical forces. The project asks how authorship changes when writing becomes iterative, relational, and partially machinic—and what kinds of care, responsibility, and refusal are required when a writer builds the system that writes back.
